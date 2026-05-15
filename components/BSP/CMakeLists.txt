@@ -1,8 +1,12 @@
 set(src_dirs
-            LED)
+            LED
+            GPTIM
+            )
 
 set(include_dirs
-            LED)      
+            LED
+            GPTIM
+            )      
 
 set(requires
             driver) 
