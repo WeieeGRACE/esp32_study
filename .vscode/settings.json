@@ -13,5 +13,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=d:\\Esp32project\\zhengdianyuanzi\\00_basic\\build"
-  ]
+  ],
+  "idf.flashType": "JTAG"
 }
